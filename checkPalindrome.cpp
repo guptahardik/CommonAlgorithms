@@ -1,5 +1,5 @@
 /** Solution to check if a string is palindrome C++
-
+Time Complexity: O(n/2)
 **/
 
 bool checkPalindrome(string inputString) {
